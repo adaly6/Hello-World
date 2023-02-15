@@ -15,11 +15,11 @@
 Creating a sample to learn more about the functionality of GITHUB
 
 ## How to Run Program
-> import GITHUB learning
+> import GITHUB learning \
 > create sample repository
 
 ## Files Used
-*BAIS Prep*
+*BAIS Prep* \
 *LinkedIn Learning* [GITHUB Setup](https://www.linkedin.com/learning/craft-a-great-github-profile/next-steps-with-github?autoplay=true&resume=false&u=42459020)
 
 ## Additional Documentation
